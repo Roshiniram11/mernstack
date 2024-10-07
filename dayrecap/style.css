@@ -1,0 +1,28 @@
+
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+h1{
+    text-align:center;
+    color: white;
+}
+#butt{
+    background-color: rgb(254,168,24);
+    color: white;
+    align-items: centers;
+}
+body{
+    color: white;
+    background-image: url('https://ik.imagekit.io/4z8covdo9/Full stack/todolistbg.png?');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: 50%;
+    text-align: center;
+}
+.xyz{
+    text-align: center;
+    text-decoration: underline;
+}
